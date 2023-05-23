@@ -1,2 +1,2 @@
-# landing-page.github.io
-website landing page.
+# simple-landing-page.github.io
+simple website landing page.
